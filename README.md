@@ -22,3 +22,4 @@ Bu proje ile ilk dinamik web sitemi geliştirmiş oldum.
 
 ✔️ HTML, CSS, Bootstrap, JavaScript
 
+https://github.com/whereismyheadd/WebApplication11/blob/7f2894333387b02589802e3358b440ffc14bd5fd/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC_9-4-2025_21734_localhost.jpeg
